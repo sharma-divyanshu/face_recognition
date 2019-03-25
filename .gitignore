@@ -18,6 +18,7 @@ eggs/
 lib/
 lib64/
 parts/
+node_modules/
 sdist/
 var/
 *.egg-info/
@@ -63,3 +64,4 @@ target/
 .python-version
 
 .idea/
+node_modules/vary/package.json
